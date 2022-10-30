@@ -34,3 +34,5 @@ print("hello world")
 - R Markdown  
 - Shiny  
 - dpylr  
+- ggplot2  
+
